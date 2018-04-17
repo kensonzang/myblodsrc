@@ -1,9 +1,9 @@
 ---
-title: myfirstPage
+title: webpack从此不再是我们的痛点 — 核心基础（转载）
 date: 2018-04-17 08:53:42
 tags:
 ---
-<div data-v-13f76525="" data-v-3f216172="" class="main-area article-area shadow"><time data-v-13f76525="" datetime="2018-04-14T10:31:42.809Z" title="Sat Apr 14 2018 18:31:42 GMT+0800 (CST)" class="time">2018 年 04 月 14 日</time><!----></div></div></div><!----><h1 data-v-13f76525="" class="article-title">webpack从此不再是我们的痛点 — 核心基础</h1><div data-v-13f76525="" itemprop="articleBody" class="article-content"><blockquote>
+<div data-v-13f76525="" data-v-3f216172="" class="main-area article-area shadow"><time data-v-13f76525="" datetime="2018-04-14T10:31:42.809Z" title="Sat Apr 14 2018 18:31:42 GMT+0800 (CST)" class="time">2018 年 04 月 14 日</time><!----></div></div></div><!----><div data-v-13f76525="" itemprop="articleBody" class="article-content"><blockquote>
 <p>webpack一直是前端工程师的痛点，因为他的复杂、分散、loader、plugin这些第三方，让我们的学习成本陡然上升，使我们一直对他的配置模棱两可，今天带大家彻底明白他如何配置，摆脱困扰我们很久的痛点。本篇主要是webpack基础配置详解，关于webpack的模块chunk、编译阶段流程、输出阶段流程、loader的编写和手写plugin会在后续文章推出，为了避免错过可以关注我或者收藏我的个人博客www.ngaiwe.com</p>
 </blockquote>
 <h3 class="heading" data-id="heading-0">1.webpack是什么？</h3>
